@@ -9,8 +9,11 @@
     "lint": "eslint"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@supabase/ssr": "^0.8.0",
     "@supabase/supabase-js": "^2.93.3",
+=======
+>>>>>>> 12b79481deab170596d03200951b12676e369970
     "next": "16.1.6",
     "react": "19.2.3",
     "react-dom": "19.2.3"
@@ -25,4 +28,8 @@
     "tailwindcss": "^4",
     "typescript": "^5"
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 12b79481deab170596d03200951b12676e369970
